@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Imran</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iahmadimran&label=Profile%20views&color=0e75b6&style=flat" alt="iahmadimran" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development.**
 
-- 💬 Ask me about **full stack development.**
+- 💬 Ask me about **Full Stack Development.**
 
 - 📫 How to reach me **ahmadimran67208@gmail.com**
 
