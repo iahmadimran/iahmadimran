@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iahmadimran" alt="iahmadimran" /></a> </p>
 
-- 🔭 I’m currently working on **a complex web app.**
+- 🔭 I’m currently working on **A complex web app.**
 
 - 🌱 I’m currently learning **Full Stack Development.**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmadimran67208@gmail.com**
 
-- ⚡ Fun fact **I love solving problems.**
+- ⚡ Fun fact **I love Solving problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
