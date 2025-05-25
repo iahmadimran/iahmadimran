@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmadimran67208@gmail.com**
 
-- ⚡ Fun fact **I Love Solving problems.**
+- ⚡ Fun fact **I Love Solving Problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
